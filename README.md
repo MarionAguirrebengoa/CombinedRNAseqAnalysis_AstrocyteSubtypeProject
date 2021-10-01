@@ -11,18 +11,18 @@ Run CombinedRNAseqAnalysis_AstrocyteSubtypeProject.Rmd
 
 ### Data
 Test data in Data/ repository : 12 samples 3 conditions
-555 Set-1-eGFP
-556 Set-1-tdTomato
-557 Set-1-eGFP/tdTomato
-558 Set-2-eGFP
-559 Set-2-tdTomato
-560 Set-2-eGFP/tdTomato
-561 Set-3-eGFP
-562 Set-3-tdTomato
-563 Set-3-eGFP/tdTomato
-564 Set-5-eGFP
-565 Set-5-tdTomato
-566 Set-5-eGFP/tdTomato
+- 555 Set-1-eGFP
+- 556 Set-1-tdTomato
+- 557 Set-1-eGFP/tdTomato
+- 558 Set-2-eGFP
+- 559 Set-2-tdTomato
+- 560 Set-2-eGFP/tdTomato
+- 561 Set-3-eGFP
+- 562 Set-3-tdTomato
+- 563 Set-3-eGFP/tdTomato
+- 564 Set-5-eGFP
+- 565 Set-5-tdTomato
+- 566 Set-5-eGFP/tdTomato
 
 
 ### Authors
